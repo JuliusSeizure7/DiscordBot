@@ -1,2 +1,2 @@
 # DiscordBot
-this is a discord bot 
+This will be a discord bot which, when requested, drops a joke.
